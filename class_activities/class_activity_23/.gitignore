@@ -1,0 +1,38 @@
+# User-specific files
+*.xcuserstate
+*.swp
+.idea/
+
+# Xcode
+build/
+DerivedData/
+
+# Xcode-specific metadata
+*.xccheckout
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# User-specific IDE configuration
+xcuserdata/
+
+# macOS Finder files
+.DS_Store
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Archives
+*.xcarchive
+
+# Other generated files
+*.hmap
+*.ipa
+*.dSYM
+*.log
